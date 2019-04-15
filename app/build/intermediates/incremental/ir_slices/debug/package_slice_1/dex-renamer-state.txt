@@ -1,0 +1,4 @@
+#Mon Apr 15 13:05:16 NPT 2019
+base.0=D\:\\Collage(Softwarica)\\3year\\Mytaxcalulator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
